@@ -1,0 +1,51 @@
+body{
+    margin:0%;
+}
+header{
+    background-color: rgb(96, 226, 96);
+    display:flex;
+    justify-content: space-around;
+    height:100px;
+}
+header>a{
+    font-size: large;
+    margin-top: 20px;   
+}
+.home{
+    display:flex;    
+}
+.fpage{
+    background-color: rgb(236, 231, 167);
+    width:30vb;
+    height:80vb;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-evenly;
+    
+}
+.fpage>a{
+    font-size: xx-large;
+}
+#right{
+    background-color: rgb(235, 161, 25); 
+    width:300vb;
+    margin-top: 2px; 
+    display:flex;
+    justify-content: center;
+    align-items: center; 
+}
+#blue{
+    color:rgb(58, 8, 120);
+    font-weight: 100;
+    font-size: 4vb;
+    font-style: calc();
+    display:flex;
+    justify-content: center;
+}
+#red{
+    color:red;
+    font-size:5vb;
+    font-family: cursive;
+    display:flex;
+    justify-content: center;
+}
